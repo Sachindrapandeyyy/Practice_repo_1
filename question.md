@@ -8,3 +8,27 @@ Add Function: Ek function define karo jo do numbers add kare aur return kare. Ph
 Dict Access: Ek dictionary banao student ka: name aur age. Phir name print karo.
 Even Filter: Ek list se even numbers filter karo (using loop) aur new list banao.
 Input Uppercase: Input lo user se (naam), aur greeting print karo. Phir usko uppercase mein convert karo.
+
+
+.
+
+
+🚀 Intermediate Questions (Logic Building)
+Yeh thode challenging hain – functions, loops, aur error handling pe focus.
+
+Simple Calculator
+User se do numbers aur operation (+, -, *, /) input lo. Operation ke basis pe result calculate karo aur print karo. (Handle division by zero error bhi.)
+Factorial Recursive
+Ek function banao jo user se number input le aur uska factorial calculate kare (e.g., 5! = 120). Recursive way mein karo.
+List Reverse
+Ek list input lo (e.g., [1,2,3,4]), usko reverse karo without using built-in reverse() function. Loop se karo aur new list banao.
+Prime Checker
+User se number input lo, check karo ki wo prime hai ya nahi. 2 se sqrt(n) tak check karo efficiency ke liye.
+Dict Merge
+Do dictionaries banao (e.g., {'a':1, 'b':2} aur {'b':3, 'c':4}), unko merge karo jahan duplicate keys pe second wala value overwrite ho. Print karo result.
+Palindrome Check
+User se string input lo, check karo ki wo palindrome hai (e.g., "radar" yes, "hello" no). Ignore case aur spaces.
+Fibonacci Series
+Ek function banao jo n terms tak Fibonacci series generate kare (0,1,1,2,3,5...). List mein store karo aur print.
+Rock-Paper-Scissors Game
+Simple game – User vs Computer. User input lo, computer random choose kare. Winner decide karo aur score track karo (3 rounds).
