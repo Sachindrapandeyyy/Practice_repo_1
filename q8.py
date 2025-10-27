@@ -9,7 +9,6 @@ print(student.get("name"))
 print(student.keys())
 print(student.values())
 print(student.items())
-
 '''
 rahul
 rahul
